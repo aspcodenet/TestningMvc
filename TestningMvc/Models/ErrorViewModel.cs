@@ -1,4 +1,4 @@
-namespace TestningMvc.Models
+namespace TestningMvc.Models // Stefan11111
 {
     public class ErrorViewModel
     {
